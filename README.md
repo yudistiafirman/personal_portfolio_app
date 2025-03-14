@@ -7,7 +7,7 @@ Selamat datang di dokumentasi aplikasi Portfolio, aplikasi berbasis Flutter yang
 
 ### Clone repository:
    ```bash
-   git clone https://github.com/yourusername/flutter-portfolio.git
+   git clone https://github.com/yudistiafirman/personal_portfolio_app.git
    cd personal_portfolio_app
   ```
 
